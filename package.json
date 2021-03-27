@@ -12,6 +12,15 @@
     "type": "git",
     "url": "git+https://github.com/IgorDePaula/phprelease.git"
   },
+  "commitlint": {
+    "extends": [
+      "@commitlint/config-conventional"
+    ],
+    "rules": {
+      "body-max-line-length": [0, "always", "Infinity"],
+      "header-max-length": [0, "always", "Infinity"]
+    }
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
