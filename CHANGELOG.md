@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/IgorDePaula/phprelease/compare/v1.1.1...v1.2.0) (2021-03-27)
+
+
+### Features
+
+* add markdown class ([b860d7f](https://github.com/IgorDePaula/phprelease/commit/b860d7ffe114d21c6bbec420ae240614b6bb5fff))
+
 ## [1.1.1](https://github.com/IgorDePaula/phprelease/compare/v1.1.0...v1.1.1) (2021-03-27)
 
 
