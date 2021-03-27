@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/IgorDePaula/phprelease/compare/v1.0.3...v1.0.4) (2021-03-27)
+
+
+### Bug Fixes
+
+* config ([2b3d865](https://github.com/IgorDePaula/phprelease/commit/2b3d86516287a1229b97730d2dcc5f2bbe0b2df3))
+
 ## [1.0.3](https://github.com/IgorDePaula/phprelease/compare/v1.0.2...v1.0.3) (2021-03-27)
 
 
