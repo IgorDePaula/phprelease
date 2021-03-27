@@ -4,6 +4,15 @@
 ### Bug Fixes
 
 * add new configs ([aba9337](https://github.com/IgorDePaula/phprelease/commit/aba9337b967986bb235f058735944da3d931731d))
+* config ([503c29f](https://github.com/IgorDePaula/phprelease/commit/503c29f62a269512acc0930f08c2768adc9a7e0d))
+* pull ([a0c184d](https://github.com/IgorDePaula/phprelease/commit/a0c184d307932f3fb6f453347fbbb6a63badfefc))
+
+## [1.0.1](https://github.com/IgorDePaula/phprelease/compare/v1.0.0...v1.0.1) (2021-03-27)
+
+
+### Bug Fixes
+
+* add new configs ([aba9337](https://github.com/IgorDePaula/phprelease/commit/aba9337b967986bb235f058735944da3d931731d))
 * pull ([a0c184d](https://github.com/IgorDePaula/phprelease/commit/a0c184d307932f3fb6f453347fbbb6a63badfefc))
 
 # 1.0.0 (2021-03-27)
