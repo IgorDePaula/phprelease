@@ -1,3 +1,16 @@
+# [1.1.0](https://github.com/IgorDePaula/phprelease/compare/v1.0.4...v1.1.0) (2021-03-27)
+
+
+### Bug Fixes
+
+* remove env ([e02f5ed](https://github.com/IgorDePaula/phprelease/commit/e02f5ede22086c4bcb162515223c6c51f99083b9))
+
+
+### Features
+
+* new folder ([eca2453](https://github.com/IgorDePaula/phprelease/commit/eca245303fe4e5a78e2ac22a83a2759c0653412a))
+* new folder ([199abba](https://github.com/IgorDePaula/phprelease/commit/199abba702dec4bae07793520bf63812be438aa5))
+
 ## [1.0.4](https://github.com/IgorDePaula/phprelease/compare/v1.0.3...v1.0.4) (2021-03-27)
 
 
